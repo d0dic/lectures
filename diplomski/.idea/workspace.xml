@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efc70308-6e72-40cb-bc61-a7ecfc61b5bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/diplomski.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/paper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/pdf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/beige.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/blood.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/league.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/moon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/serif.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/sky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/solarized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/beige.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/black.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/blood.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/league.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/moon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/night.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/serif.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/simple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/sky.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/solarized.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/white.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/white.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/zenburn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/classList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/head.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="diplomski.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="diplomski" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4500">
+              <caret line="180" column="54" selection-start-line="180" selection-start-column="28" selection-end-line="180" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js" />
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diplomski" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diplomski" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diplomski" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efc70308-6e72-40cb-bc61-a7ecfc61b5bd" name="Default" comment="" />
+      <created>1475343699604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475343699604</updated>
+      <workItem from="1475343700923" duration="738000" />
+      <workItem from="1475432121345" duration="14488000" />
+      <workItem from="1475454194724" duration="1083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16309000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26295897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4500">
+          <caret line="180" column="54" selection-start-line="180" selection-start-column="28" selection-end-line="180" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4500">
+          <caret line="180" column="54" selection-start-line="180" selection-start-column="28" selection-end-line="180" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
